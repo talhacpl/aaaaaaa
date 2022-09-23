@@ -6,5 +6,9 @@ public class Day001Github {
         System.out.println("bi daha deneme");
         System.out.println("aasdfsdfsdfsdfsdfsdfsdffaaaa");
         System.out.println("aaafffffffaaaa");
+        System.out.println("aaafffffffaaaa");
+        System.out.println("aaafffffffaaaa");
+        System.out.println("aaafffffffaaaa");
+        System.out.println("aaafffffffaaaa");
     }
 }
