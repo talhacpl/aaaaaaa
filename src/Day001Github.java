@@ -4,7 +4,7 @@ public class Day001Github {
 
         System.out.println("Git deneme");
         System.out.println("bi daha deneme");
-        System.out.println("aaaaaaaaaaaa");
+        System.out.println("aasdfsdfsdfsdfsdfsdfsdffaaaa");
         System.out.println("aaafffffffaaaa");
     }
 }
