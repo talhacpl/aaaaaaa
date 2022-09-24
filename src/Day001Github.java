@@ -10,5 +10,14 @@ public class Day001Github {
         System.out.println("Git deneme");
         System.out.println("Git deneme");
         System.out.println("Git deneme");
+        System.out.println("Git deneme");
+        System.out.println("Git deneme");
+        System.out.println("Git deneme");
+        System.out.println("Git deneme");
+        System.out.println("Git deneme");
+        System.out.println("Git deneme");
+        System.out.println("Git deneme");
+        System.out.println("Git deneme");
+        System.out.println("Git deneme");
     }
 }
