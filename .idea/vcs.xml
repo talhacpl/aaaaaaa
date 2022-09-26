@@ -3,5 +3,6 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/chrome-ext-sending-message" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/aaaaaaa" vcs="Git" />
   </component>
 </project>
